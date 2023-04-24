@@ -51,7 +51,7 @@ body {
     height: 5px;
     width: 0%;
     z-index: 0;
-    transition: 0.4s ease-in;
+    transition: 0.2s ease-in;
     border-radius: 20px;
 }
 
@@ -76,7 +76,7 @@ body {
 }
 
 .btn {
-    background-color: #CFC6F1;
+    background-color: #7F65FD;
     color: white;
     border: none;
     border-radius: 6px;
@@ -97,5 +97,4 @@ body {
 .btn:disabled {
     background-color: #d7d7d7;
     cursor: not-allowed;
-    transform: none;
 }
