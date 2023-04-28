@@ -2,7 +2,7 @@
 
 Nice implementation of a progress bar using HTML, CSS, and JavaScript. This project showcases a sleek and responsive progress bar that can be easily integrated into any web application. With its customizable styles and smooth animation, it provides a seamless user experience and enhances the visual appeal of any web page. The progress bar is easy to implement and can be adapted to suit any project requirements.
 
-![Steps.Progress-Bar](Steps.Progress-Bar.png)
+![Steps.Progress-Bar](Steps-Progress-Bar.png)
 
 ## Technologies
 
